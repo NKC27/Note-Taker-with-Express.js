@@ -12,7 +12,7 @@
 - [Usage](#Usage)
 - [Live_link](#Live_link)
 - [Screenshots](#Screenshots)
-- [Video](#Video_Walkthrough)
+- [Video_Walkthrough](#Video_Walkthrough)
 - [Licence](#Licence)
 - [Contributions](#Contributions)
 
@@ -31,17 +31,14 @@ The application’s front end has already been created. It's my job to build the
 ## Installation
 
 ```
-Clone Repo from NKC27 gitHub in your Terminal:
+Clone the Repo from NKC27 gitHub into your Terminal:
 git clone git@github.com:NKC27/Note-Taker-with-Express.js.git
 
-Switch to the correct directory (folder) in your Terminal:
-cd Note-Taker-with-Express.js
-
-Install all dependencies from the package.json:
+Install all node dependencies from the package.json:
 npm install
 
 Run the App
-npm run start or 
+npm run
 node server.js
 
 Go to your localHost:
@@ -76,7 +73,7 @@ The following images show the web application's appearance and functionality:
 
 ![Image with saved notes and a previous note selected](./Assets/images/saved-notes.png)
 
-## Video_Walthrough
+## Video_Walkthrough
 
 [![Please view my walkthrough video here](https://img.youtube.com/vi/Jw027qm2n8o/0.jpg)](https://www.youtube.com/watch?v=Jw027qm2n8o)
 
