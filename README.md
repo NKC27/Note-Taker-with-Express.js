@@ -46,9 +46,6 @@ node server.js
 
 Go to your localHost:
 http://localhost:3001
-
-Start writing your notes, enjoy.
-
 ```
 
 ## Usage
