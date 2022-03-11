@@ -7,7 +7,7 @@ const uuid = require("uuid");
 
 const PORT = process.env.PORT || 3001;
 
-//
+// static folder
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
