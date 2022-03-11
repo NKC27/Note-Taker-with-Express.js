@@ -35,15 +35,15 @@ app.post("/api/notes", function(req, res) {
     fs.readFile(path.join(__dirname, "./db/db.json"), (err, data) => {
         if (err) throw err;
         const notes = JSON.parse(data);
-        const newNote = req.body;
-        newNote.id = uuid.v4();
-        notes.push(newNote);
+        const newNoteEntry = req.body;
+        newNoteEntry.id = uuid.v4();
+        notes.push(newNoteEntry);
 
         const createNote = JSON.stringify(notes);
         fs.writeFile(path.join(__dirname, "./db/db.json"), createNote, (err) =>{
             if (err) throw err;
         });
-        res.json(newNote);
+        res.json(newNoteEntry);
     });
 });
 
