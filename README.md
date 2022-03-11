@@ -81,7 +81,7 @@ The following images show the web application's appearance and functionality:
 
 ## Video_Walthrough
 
-[![Please view my walkthrough video here](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![Please view my walkthrough video here](https://img.youtube.com/vi/Jw027qm2n8o/0.jpg)](https://www.youtube.com/watch?v=Jw027qm2n8o)
 
 ## Licence
 
@@ -89,4 +89,4 @@ The following images show the web application's appearance and functionality:
 
 ## Contributions
 
-This repository is open to contributions. Please contact me if you would like
+This repository is open to contributions.
