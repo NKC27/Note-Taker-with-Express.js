@@ -47,7 +47,7 @@ app.post("/api/notes", function(req, res) {
     });
 });
 
-//Delete stored notes by id ref
+//Delete stored notes by id
 app.delete("/api/notes/:id", function(req, res) {
     const id = req.params.id;
     fs.readFile(path.join(__dirname, "./db/db.json"), (err, data) => {
@@ -57,7 +57,7 @@ app.delete("/api/notes/:id", function(req, res) {
             return item.id !== id
         });
         fs.writeFile('./db/db.json', JSON.stringify(notesArray), (err, data) => {
-            console.log("Deleteled")
+            console.log("Deleted")
             if (err) throw err; 
             res.json(notesArray) 
 

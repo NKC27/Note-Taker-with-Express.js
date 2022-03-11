@@ -10,12 +10,13 @@
 - [Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
+- [Live_link](#Live_link)
 - [Screenshots](#Screenshots)
 - [Video](#Video_Walkthrough)
 - [Licence](#Licence)
 - [Contributions](#Contributions)
 
-# Profile Link
+# Profile_Link
 
 Please see my profile for further documentation.
 [GitHub Link](https://github.com/NKC27)
@@ -64,6 +65,10 @@ Start writing your notes, enjoy.
 
 ```
 
+## Live_link
+
+[Note_Taker_App](https://note-taker-nkc.herokuapp.com)
+
 ## Screenshots
 
 The following images show the web application's appearance and functionality:
@@ -74,9 +79,9 @@ The following images show the web application's appearance and functionality:
 
 ![Image with saved notes and a previous note selected](./Assets/images/saved-notes.png)
 
-## Video Walthrough
+## Video_Walthrough
 
-![Please view the video walkthrough of the application working](.)
+[![Please view my walkthrough video here](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Licence
 
