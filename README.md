@@ -1,5 +1,25 @@
 # Note-Taker-with-Express.js
 
+## GitHub Username
+
+  NKC27
+
+# Table of Contents
+
+- [Profile_link](#Profile_link)
+- [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Screenshots](#Screenshots)
+- [Video](#Video_Walkthrough)
+- [Licence](#Licence)
+- [Contributions](#Contributions)
+
+# Profile Link
+
+Please see my profile for further documentation.
+[GitHub Link](https://github.com/NKC27)
+
 ## Description
 
 --------
@@ -48,15 +68,19 @@ Start writing your notes, enjoy.
 
 The following images show the web application's appearance and functionality:
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
+![Start Page with DEMO note already saved, this is just to illustrate how it is used.](./Assets/images/start-screen.png)
 
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
+![When you have entered note text, icons will appear to save the note with the title. You can also view previous notes saved in the left hand column. Add new notes with the + symbol on the right.](./Assets/images/notes-screen.png)
+
+![Image with saved notes and a previous note selected](./Assets/images/saved-notes.png)
 
 ## Video Walthrough
 
+![Please view the video walkthrough of the application working](.)
+
 ## Licence
 
-* 
+![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contributions
 
